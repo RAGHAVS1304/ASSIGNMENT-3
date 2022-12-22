@@ -1,2 +1,1 @@
-# assignment3
-college task
+#ASSIGNMENT 3
