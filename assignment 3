@@ -1,4 +1,4 @@
-#Q1  Write a Python program to count the number of occurrences of each word or character in the string entered by the user. (Count the Number of Occurrences of each character only if the single word is entered by the user).
+#ASSIGNMENT 3 SOLUTION 1
 
 print("\nQuestion 1")
 
@@ -40,8 +40,8 @@ else:
 
 
 
-#Q2 Write a python script to print next date of input date. It must meet following conditions(use if-elif)
 
+#ASSIGNMENT 3 SOLUTION 2
 print("\nQuestion 2")
 
 print("Enter Date below to get date of next day.\n")
@@ -128,7 +128,7 @@ if condition1==True and condition2==True :
 
     
 
-#Q3 . Write a Python program to create a list of tuples with the first element as the number and Second element as the square of the number.
+#ASSIGNMENT 3 SOLUTION 3
     
 print("\nQuestion 3")
 
@@ -145,7 +145,7 @@ print(list2)
 
 
 
-#Q4 Write a program to prompt the user for a grade between 4 and 10. If the grade is out of range print error message. If the grade is between 4 and 10 Print the grade and the performance using the following:
+#ASSIGNMENT 3 SOLUTION 4
 
 print("\nQuestion 4")
 
@@ -167,7 +167,7 @@ else:
 
 
 
-#Q5 Write a python program to print following pattern.
+#ASSIGNMENT 3 SOLUTION 5
 
 print("\nQuestion 5")
 
@@ -179,8 +179,7 @@ while len(string)-j*2 >= 1:
 
 
 
-#Q6 Write a python script that repeatedly ask user to enter name and SID of students (use ‘Y’ or ‘N’). Store them in a dictionary whose keys are SID’s and values are student’s name. Perform the following operations on Dictionary :
-
+#ASSIGNMENT 3 SOLUTION 6
 print("\nQuestion 6")
 
 repeat="Y"
@@ -244,8 +243,7 @@ print(f"Name of student with SID {enter_sid} is {output_name}.")
 
 
 
-#Q7 Write a python program to print Fibonacci sequence also print average of the resultant Fibonacci series.
-
+#ASSIGNMENT 3 SOLUTION 7
 print("\nQuestion 7")
 
 #input from user
@@ -292,10 +290,9 @@ else:
 
 
 
-#Q8 Given the sets below, write python statement to:
-
+#ASSIGNMENT 3 SOLUTION 8
         
-print("\nQuestion 7")
+print("\nQuestion 8")
 
 #Given Sets
 set1= {1, 2, 3, 4, 5}
